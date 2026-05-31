@@ -122,10 +122,10 @@ module.exports = {
 ┃ 💬 Group  : 『 ${groupPrefix} 』
 ┃ ⏰ Time   : ${time}
 ┃ 📅 Date   : ${date}
-┃ 👑 Owner  : ${owner}
+┃ 👑 Owner  : ${TOUHID}
 ┃ ⚡ Status : ONLINE
-╰━━━〔 ✨ Powered by Xalman 〕━━━╯`,
-			attachment: await getStreamFromURL(gif)
+╰━━━〔 ✨ Powered by Suzume-japan 〕━━━╯`,
+			attachment: https://i.imgur.com/FlhIDUO.mp4
 		});
 	}
 };

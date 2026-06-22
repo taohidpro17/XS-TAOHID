@@ -2,10 +2,10 @@ const axios = require("axios");
 const fs = require("fs-extra");
 const path = require("path");
 
-const __AUTHOR__ = "Touhid";
+const __AUTHOR__ = "Rocky Chowdhury";
 
 const rocky = async () => {
-  const base = await axios.get("https://raw.githubusercontent.com/oldacountrocky303-ship-it/rv-api/main/baseApiUrl.json");
+  const base = await axios.get("https://raw.githubusercontent.com/Rocky-mastermind/rv-api/main/baseApiUrl.json");
   return base.data.rocky;
 };
 
@@ -137,4 +137,3 @@ module.exports = {
     }
   }
 };
-          

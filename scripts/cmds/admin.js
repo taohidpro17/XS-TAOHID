@@ -35,7 +35,7 @@ module.exports = {
 
 		// ✅ Owners (যারা add/remove করতে পারবে)
 		const OWNER = [
-			"61590918371596"
+			"61591515380799"
 		];
 
 		// ✅ Check: sender owner কিনা
